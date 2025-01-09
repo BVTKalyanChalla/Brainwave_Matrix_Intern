@@ -1,0 +1,1258 @@
+date,original_text,processed_text,sentiment,compound_score,subjectivity,entities,source,url,topics
+2025-01-05 05:30:09,"Sunday Daily Thread: What's everyone working on this week? # Weekly Thread: What's Everyone Working On This Week? 🛠️
+
+Hello /r/Python! It's time to share what you've been working on! Whether it's a work-in-progress, a completed masterpiece, or just a rough idea, let us know what you're up to!
+
+## How it Works:
+
+1. **Show & Tell**: Share your current projects, completed works, or future ideas.
+2. **Discuss**: Get feedback, find collaborators, or just chat about your project.
+3. **Inspire**: Your project might inspire someone else, just as you might get inspired here.
+
+## Guidelines:
+
+* Feel free to include as many details as you'd like. Code snippets, screenshots, and links are all welcome.
+* Whether it's your job, your hobby, or your passion project, all Python-related work is welcome here.
+
+## Example Shares:
+
+1. **Machine Learning Model**: Working on a ML model to predict stock prices. Just cracked a 90% accuracy rate!
+2. **Web Scraping**: Built a script to scrape and analyze news articles. It's helped me understand media bias better.
+3. **Automation**: Automated my home lighting with Python and Raspberry Pi. My life has never been easier!
+
+Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟",sunday daily thread whats everyone working week weekly thread whats everyone working week hello rpython time share youve working whether workinprogress completed masterpiece rough idea let u know youre work 1 show tell share current project completed work future idea 2 discus get feedback find collaborator chat project 3 inspire project might inspire someone else might get inspired guideline feel free include many detail youd like code snippet screenshots link welcome whether job hobby passion project pythonrelated work welcome example share 1 machine learning model working ml model predict stock price cracked 90 accuracy rate 2 web scraping built script scrape analyze news article helped understand medium bias better 3 automation automated home lighting python raspberry pi life never easier let build grow together share journey learn others happy coding,positive,0.9907,0.5525,"[('Sunday', 'DATE'), ('this week', 'DATE'), ('Weekly Thread', 'PERSON'), ('This Week', 'DATE'), ('#', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('##', 'MONEY'), ('1', 'CARDINAL'), ('ML', 'ORG'), ('90%', 'PERCENT'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Python', 'PERSON'), ('Raspberry Pi', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hts9ju/sunday_daily_thread_whats_everyone_working_on/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 05:30:19,"Thursday Daily Thread: Python Careers, Courses, and Furthering Education! # Weekly Thread: Professional Use, Jobs, and Education 🏢
+
+Welcome to this week's discussion on Python in the professional world! This is your spot to talk about job hunting, career growth, and educational resources in Python. Please note, this thread is **not for recruitment**.
+
+---
+
+## How it Works:
+
+1. **Career Talk**: Discuss using Python in your job, or the job market for Python roles.
+2. **Education Q&A**: Ask or answer questions about Python courses, certifications, and educational resources.
+3. **Workplace Chat**: Share your experiences, challenges, or success stories about using Python professionally.
+
+---
+
+## Guidelines:
+
+- This thread is **not for recruitment**. For job postings, please see r/PythonJobs or the recruitment thread in the sidebar.
+- Keep discussions relevant to Python in the professional and educational context.
+  
+---
+
+## Example Topics:
+
+1. **Career Paths**: What kinds of roles are out there for Python developers?
+2. **Certifications**: Are Python certifications worth it?
+3. **Course Recommendations**: Any good advanced Python courses to recommend?
+4. **Workplace Tools**: What Python libraries are indispensable in your professional work?
+5. **Interview Tips**: What types of Python questions are commonly asked in interviews?
+
+---
+
+Let's help each other grow in our careers and education. Happy discussing! 🌟",thursday daily thread python career course furthering education weekly thread professional use job education welcome week discussion python professional world spot talk job hunting career growth educational resource python please note thread recruitment work 1 career talk discus using python job job market python role 2 education qa ask answer question python course certification educational resource 3 workplace chat share experience challenge success story using python professionally guideline thread recruitment job posting please see rpythonjobs recruitment thread sidebar keep discussion relevant python professional educational context example topic 1 career path kind role python developer 2 certification python certification worth 3 course recommendation good advanced python course recommend 4 workplace tool python library indispensable professional work 5 interview tip type python question commonly asked interview let help grow career education happy discussing,positive,0.9855,0.40263157894736845,"[('Thursday', 'DATE'), ('Daily Thread', 'PERSON'), ('Courses', 'ORG'), ('Furthering Education', 'ORG'), ('Weekly Thread', 'PERSON'), ('Education', 'ORG'), ('week', 'DATE'), ('Python', 'GPE'), ('#', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('Python', 'ORG'), ('3', 'CARDINAL'), ('Python', 'PERSON'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hwz5go/thursday_daily_thread_python_careers_courses_and/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-10 00:12:40,"Python in DevOps: My Favorite Tools Hey! 👋
+
+I rely on Python to do a lot of Ops / DevOps-type automation:  automate workflows, create dashboards, manage infrastructure, and build helpful tools. Over time, I’ve found some Python-based approaches that make these tasks much easier and more efficient. Here’s what I use:
+
+[https://www.pulumi.com/blog/python-for-devops/](https://www.pulumi.com/blog/python-for-devops/)
+
+* Custom dashboards with Flask and Prometheus Client
+* Automating workflows Schedule, then RQ, then finally Airflow
+* Network analysis with Scapy
+* Click / Typer / Rich for CLI (Starting with Click, but always moving past it at some point)
+
+And, of course, a bunch more.
+
+Then, for fun, I tried to use Python for everything in a single service  - using dagger for the container and pulumi for the Infra. ( I work for pulumi bc I'm a big fan of being able to use Python this way :) )
+
+Code: [https://github.com/adamgordonbell/service-status-monitor](https://github.com/adamgordonbell/service-status-monitor)
+
+What am I missing in my list?",python devops favorite tool hey rely python lot ops devopstype automation automate workflow create dashboard manage infrastructure build helpful tool time ive found pythonbased approach make task much easier efficient here use custom dashboard flask prometheus client automating workflow schedule rq finally airflow network analysis scapy click typer rich cli starting click always moving past point course bunch fun tried use python everything single service using dagger container pulumi infra work pulumi bc im big fan able use python way code missing list,positive,0.9612,0.40811688311688316,"[('DevOps', 'ORG'), ('Ops / DevOps', 'ORG'), ('Python', 'ORG'), ('Flask', 'GPE'), ('Schedule', 'PERSON'), ('RQ', 'ORG'), ('Scapy', 'PERSON'), ('CLI', 'ORG'), ('Infra', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hxjv2o/python_in_devops_my_favorite_tools/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 18:40:34,"Homemade LLM Hosting with Two-Way Voice Support using Python, Transformers, Qwen, and Bark [https://herahaven.ai/blog/homemade-llm-hosting-with-two-way-voice-support-using-python-transformers-qwen-and-bark/](https://herahaven.ai/blog/homemade-llm-hosting-with-two-way-voice-support-using-python-transformers-qwen-and-bark/)",homemade llm hosting twoway voice support using python transformer qwen bark,positive,0.4019,0.0,"[('Two', 'CARDINAL'), ('Qwen', 'PERSON'), ('Bark', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hxcg8k/homemade_llm_hosting_with_twoway_voice_support/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 09:06:12,"We made an open source web-app to self-host your documents and interact with them using LLMs Hi everyone, our team are happy to share our hobby project `Kotaemon` \- an open-source web app to organize and chat with your document collections privately.
+
+[https://github.com/Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+
+# Live demos
+
+[https://cin-model-kotaemon.hf.space](https://cin-model-kotaemon.hf.space/) (demo space for QA on academic paper collection).
+
+[https://huggingface.co/spaces/cin-model/kotaemon-demo](https://huggingface.co/spaces/cin-model/kotaemon-demo) (static UI demo on HuggingFace space).
+
+# Key features (what we think that it is special):
+
+* **Clean & minimalistic UI.** Support Dark/Light mode and responsive UI.
+* **Support multi-users**. Users can be managed directly on the web UI. Files can be organized to Public / Private collections. Share your chat conversation with others for collaboration!
+* **Multi-modal QA support**. Ask question on documents with tables / figures or images as you do with normal text documents. Visualize knowledge-graph and mindmap upon retrieval process.
+* **Advance citations support.** Preview citation with highlight directly on *in-browser PDF viewer*. Perform QA on any sub-set of documents, with relevant score from AI models.
+* **Complex question solving.** Use Chain-of-Thought (CoT) reasoning mode to break down and solve complex questions step-by-step.
+
+We provide multiple installation options: Docker image, local setup script, one-click deployment template on private cloud (HuggingFace space): [https://cinnamon.github.io/kotaemon/](https://cinnamon.github.io/kotaemon/)
+
+We'd love to hear your feedback and thoughts. Cheers!",made open source webapp selfhost document interact using llm hi everyone team happy share hobby project kotaemon opensource web app organize chat document collection privately live demo demo space qa academic paper collection static ui demo huggingface space key feature think special clean minimalistic ui support darklight mode responsive ui support multiusers user managed directly web ui file organized public private collection share chat conversation others collaboration multimodal qa support ask question document table figure image normal text document visualize knowledgegraph mindmap upon retrieval process advance citation support preview citation highlight directly inbrowser pdf viewer perform qa subset document relevant score ai model complex question solving use chainofthought cot reasoning mode break solve complex question stepbystep provide multiple installation option docker image local setup script oneclick deployment template private cloud huggingface space wed love hear feedback thought cheer,positive,0.989,0.48690476190476195,"[('Kotaemon', 'PERSON'), ('\\-', 'PERSON'), ('QA', 'ORG'), ('UI', 'ORG'), ('HuggingFace', 'ORG'), ('Key', 'PERSON'), ('Clean &', 'ORG'), ('UI', 'ORG'), ('UI', 'ORG'), ('UI', 'ORG'), ('Files', 'PERSON'), ('PDF', 'ORG'), ('AI', 'GPE'), ('Use Chain', 'PERSON'), ('CoT', 'ORG'), ('Docker', 'PERSON'), ('one', 'CARDINAL'), ('HuggingFace', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hx3qcl/we_made_an_open_source_webapp_to_selfhost_your/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 17:33:17,"Cyantic - build complex objects from simple blueprints using pydantic # What the project does
+
+Cyantic lets you build complex types from simple blueprints in your pydantic models, with type-safety and validation built in.
+
+**https://github.com/flywhl/cyantic**
+
+* Type-safe blueprints with validation, since they are pydantic models.
+* Reference other values using `@value:x.y.z`
+* Import objects using `@import:x.y.z`
+* Load data from environment variables using `@env:VAR`
+* Define custom `@hook` handlers (see tests)
+
+For my work, I have to instantiate a lot of `torch.Tensors`, and I wanted a way to do this from YAML specs (how I specify models). So I built a kind of middleware, which uses intermediary Pydantic models as blueprints, and instantiates them into full objects during pydantic's build process. Now I can pass in parameters (mean and standard deviation), and get a fully-built `Tensor` in a pydantic model.
+
+This is now a library, Cyantic - named after cyanotype photography (i.e. the ""blueprint"").
+
+# Target Audience
+
+It's clearly useful for science/data-science work, esp as scientists start moving away from `dict`s to use pydantic.
+
+I think this would also be useful for general config management, using the `@hooks` API. You can stitch YAML files together, re-use sections of YAML, etc..
+
+# Comparisons
+
+I haven't looked for alternatives, but would love to hear about other builder/aggregator libraries for pydantic.",cyantic build complex object simple blueprint using pydantic project cyantic let build complex type simple blueprint pydantic model typesafety validation built typesafe blueprint validation since pydantic model reference value using valuexyz import object using importxyz load data environment variable using envvar define custom hook handler see test work instantiate lot torchtensors wanted way yaml spec specify model built kind middleware us intermediary pydantic model blueprint instantiates full object pydantics build process pas parameter mean standard deviation get fullybuilt tensor pydantic model library cyantic named cyanotype photography ie blueprint target audience clearly useful sciencedatascience work esp scientist start moving away dicts use pydantic think would also useful general config management using hook api stitch yaml file together reuse section yaml etc comparison havent looked alternative would love hear builderaggregator library pydantic,positive,0.9552,0.39598214285714284,"[('Pydantic', 'NORP'), ('Cyantic', 'ORG'), ('Target Audience', 'PERSON'), ('the `@hooks` API', 'ORG'), ('YAML', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hxbarx/cyantic_build_complex_objects_from_simple/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 01:09:21,"Python users, how did you move on from basics to more complex coding? I am currently in college studying A level Computer science. We are currently taught C#, however I am still more interested in Python coding.
+
+Because they won't teach us Python anymore, I don't really have a reliable website to build on my coding skills. The problem I am having is that I can do all the 'basics' that they teach you to do, but I cannot find a way to take the next step into preparation for something more practical.
+
+Has anyone got any youtuber recommendations or websites to use because I have been searching and cannot fit something that is matching with my current level as it is all either too easy or too complex.
+
+(I would also like more experience in Python as I aspire to do technology related degrees in the future)
+
+Thank you ! :)
+
+  
+Edit: Thank you everyone who has commented! I appreciate your help because now I can better my skills by a lot!!! Much appreciated",python user move basic complex coding currently college studying level computer science currently taught c however still interested python coding wont teach u python anymore dont really reliable website build coding skill problem basic teach find way take next step preparation something practical anyone got youtuber recommendation website use searching fit something matching current level either easy complex would also like experience python aspire technology related degree future thank edit thank everyone commented appreciate help better skill lot much appreciated,positive,0.9702,0.33177083333333335,[],reddit,https://www.reddit.com/r/Python/comments/1hwsv6i/python_users_how_did_you_move_on_from_basics_to/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 16:24:29,"obliquetree: Advanced Decision Tree Implementation # obliquetree
+
+`obliquetree` is an advanced decision tree library designed to offer high-performance and interpretable models. It supports both classification and regression tasks, enabling a wide range of applications. By leveraging both traditional and oblique splits, `obliquetree` provides flexibility and improved generalization, particularly in shallow trees, making it a powerful alternative to conventional decision trees.
+
+You can access the project from here: [ObliqueTree GitHub Repository](https://github.com/sametcopur/obliquetree)
+
+What `obliquetree` Does:
+
+* **Oblique Splits for Better Patterns**: Utilizes linear combinations of features for splitting, capturing complex patterns effectively.
+* **Traditional Splits for Simplicity**: Supports axis-aligned splits, maintaining simplicity and interpretability.
+* **Performance Optimization**: Ensures high speed and efficiency while supporting categorical features and missing value handling.
+* **Scalability and Interpretability**: Excels at providing interpretable models with fewer splits.
+
+# Key Features
+
+* **Oblique Splits**: Use linear combinations of features to capture complex data patterns.
+* **Axis-Aligned Splits**: Supports conventional decision tree behavior for simplicity.
+* **Categorical Feature Handling**: Works seamlessly with categorical data, requiring only label encoding.
+* **Optimized Performance**: Up to 50% faster for float columns and 200% faster for integer columns compared to `scikit-learn`.
+* **Feature Constraints**: Limit the number of features used in oblique splits for simpler, interpretable trees.
+* **Missing Value Handling**: Automatically assigns missing values (`NaN`) to optimal leaves.
+* **Seamless Integration**: Guarantees results equivalent to `scikit-learn` when oblique features are disabled.
+
+# Target Audience
+
+* **Data Scientists and Engineers**: Looking for interpretable decision trees with advanced splitting options.
+* **Researchers**: Exploring oblique decision trees and their advantages over traditional methods.
+* **ML Practitioners**: Seeking models that balance interpretability with performance for datasets with linear or complex relationships.
+
+# Comparison to Existing Alternatives
+
+* **Versus Standard Decision Trees**: `obliquetree` supports oblique splits for capturing more complex relationships, providing better generalization with shallow trees.
+* **Versus** `scikit-learn`: Provides faster performance and native support for categorical features and missing values.
+
+# Algorithm & Performance
+
+The `obliquetree` algorithm supports both oblique and axis-aligned splits, dynamically selecting the best type for each decision point. By optimizing for shallower trees, it ensures better generalization with fewer splits, especially on datasets with linear relationships. Performance tests demonstrate significant speed improvements compared to `scikit-learn`.
+
+# Quick Start: Install obliquetree via pip
+
+    pip install obliquetree
+
+# Example Usage
+
+    from obliquetree import Classifier
+    
+    # Initialize the model
+    model = Classifier(
+        use_oblique=True,       # Enable oblique splits
+        max_depth=3,            # Maximum tree depth
+        n_pair=2,               # Number of feature pairs for optimization
+        random_state=42,        # Reproducibility
+        categories=[0, 10, 32], # Specify categorical features
+    )
+    
+    # Fit the model on the training dataset
+    model.fit(X_train, y_train)
+    
+    # Predict on the test dataset
+    y_pred = model.predict(X_test)
+
+# Documentation
+
+For example usage, API details, comparisons with axis-aligned trees, and in-depth insights into the algorithmic foundation, we **strongly recommend** referring to the full  [documentation](https://obliquetree.readthedocs.io/en/latest/).
+
+# ",obliquetree advanced decision tree implementation obliquetree obliquetree advanced decision tree library designed offer highperformance interpretable model support classification regression task enabling wide range application leveraging traditional oblique split obliquetree provides flexibility improved generalization particularly shallow tree making powerful alternative conventional decision tree access project obliquetree github repository obliquetree oblique split better pattern utilizes linear combination feature splitting capturing complex pattern effectively traditional split simplicity support axisaligned split maintaining simplicity interpretability performance optimization ensures high speed efficiency supporting categorical feature missing value handling scalability interpretability excels providing interpretable model fewer split key feature oblique split use linear combination feature capture complex data pattern axisaligned split support conventional decision tree behavior simplicity categorical feature handling work seamlessly categorical data requiring label encoding optimized performance 50 faster float column 200 faster integer column compared scikitlearn feature constraint limit number feature used oblique split simpler interpretable tree missing value handling automatically assigns missing value nan optimal leaf seamless integration guarantee result equivalent scikitlearn oblique feature disabled target audience data scientist engineer looking interpretable decision tree advanced splitting option researcher exploring oblique decision tree advantage traditional method ml practitioner seeking model balance interpretability performance datasets linear complex relationship comparison existing alternative versus standard decision tree obliquetree support oblique split capturing complex relationship providing better generalization shallow tree versus scikitlearn provides faster performance native support categorical feature missing value algorithm performance obliquetree algorithm support oblique axisaligned split dynamically selecting best type decision point optimizing shallower tree ensures better generalization fewer split especially datasets linear relationship performance test demonstrate significant speed improvement compared scikitlearn quick start install obliquetree via pip pip install obliquetree example usage obliquetree import classifier initialize model model classifier use_obliquetrue enable oblique split max_depth3 maximum tree depth n_pair2 number feature pair optimization random_state42 reproducibility categories0 10 32 specify categorical feature fit model training dataset modelfitx_train y_train predict test dataset y_pred modelpredictx_test documentation example usage api detail comparison axisaligned tree indepth insight algorithmic foundation strongly recommend referring full documentation,positive,0.9976,0.46250321750321766,"[('Excels', 'PERSON'), ('Up to 50%', 'PERCENT'), ('200%', 'PERCENT'), ('integer', 'PERSON'), ('NaN', 'WORK_OF_ART'), ('Target Audience', 'PERSON'), ('linear', 'ORG'), ('Comparison', 'PERSON'), ('#', 'CARDINAL'), ('Algorithm & Performance', 'ORG'), ('linear', 'ORG'), ('Quick Start', 'PERSON'), ('Classifier', 'ORG'), ('Classifier', 'PERSON'), ('Maximum', 'PERSON'), ('categories=[0', 'CARDINAL'), ('10', 'DATE'), ('32', 'CARDINAL'), ('Fit', 'PERSON'), ('API', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hxaa85/obliquetree_advanced_decision_tree_implementation/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 06:17:33,"PEP 769 – Add a ‘default’ keyword argument to ‘attrgetter’ and ‘itemgetter’ PEP 769 – Add a ‘default’ keyword argument to ‘attrgetter’ and ‘itemgetter’ [https://peps.python.org/pep-0769/](https://peps.python.org/pep-0769/)
+
+# Abstract
+
+This proposal aims to enhance the operator module by adding a default keyword argument to the attrgetter and itemgetter functions. This addition would allow these functions to return a specified default value when the targeted attribute or item is missing, thereby preventing exceptions and simplifying code that handles optional attributes or items.
+
+# Motivation
+
+Currently, attrgetter and itemgetter raise exceptions if the specified attribute or item is absent. This limitation requires developers to implement additional error handling, leading to more complex and less readable code.
+
+Introducing a default parameter would streamline operations involving optional attributes or items, reducing boilerplate code and enhancing code clarity.
+
+# Examples
+
+    >>> obj = [""foo"", ""bar"", ""baz""]
+    >>> itemgetter(1, default=""XYZ"")(obj)
+    'bar'
+    >>> itemgetter(5, default=""XYZ"")(obj)
+    'XYZ'
+    >>> itemgetter(1, 0, default=""XYZ"")(obj)
+    ('bar', 'foo')
+    >>> itemgetter(1, 5, default=""XYZ"")(obj)
+    ('bar', 'XYZ')",pep 769 add default keyword argument attrgetter itemgetter pep 769 add default keyword argument attrgetter itemgetter abstract proposal aim enhance operator module adding default keyword argument attrgetter itemgetter function addition would allow function return specified default value targeted attribute item missing thereby preventing exception simplifying code handle optional attribute item motivation currently attrgetter itemgetter raise exception specified attribute item absent limitation requires developer implement additional error handling leading complex less readable code introducing default parameter would streamline operation involving optional attribute item reducing boilerplate code enhancing code clarity example obj foo bar baz itemgetter1 defaultxyzobj bar itemgetter5 defaultxyzobj xyz itemgetter1 0 defaultxyzobj bar foo itemgetter1 5 defaultxyzobj bar xyz,negative,-0.6486,0.18333333333333335,"[('769', 'CARDINAL'), ('769', 'CARDINAL'), ('default=""XYZ"")(obj', 'PERSON'), ('5', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hx06a9/pep_769_add_a_default_keyword_argument_to/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-10 01:26:23,"Deep dive into Python on a plane Keep meaning to learn how to use Python but never found the time. I am due to have a long flight in a few days and my plan is to deep dive into it. 
+
+Any resources that I should download in advance?
+
+I have Youtube video so send me on any recommends.
+
+Already have ""How to automate the boring stuff"" , ""pythonlearn"" and ""thinkpython2""
+
+  
+Wish me luck :)",deep dive python plane keep meaning learn use python never found time due long flight day plan deep dive resource download advance youtube video send recommends already automate boring stuff pythonlearn thinkpython2 wish luck,positive,0.6486,0.515,"[('a few days', 'DATE'), ('Youtube', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hxlm9s/deep_dive_into_python_on_a_plane/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 06:33:20,"Arch Gateway - an open source intelligent gateway for AI agents - focus on business logic of agents # What My Project Does
+
+Arch is an intelligent [Layer 7](https://www.cloudflare.com/learning/ddos/what-is-layer-7/) gateway (proxy) designed to protect, observe, and personalize AI agents with your APIs. The project was born out of the belief that: Prompts are nuanced and opaque user requests, which require the same capabilities as traditional HTTP requests including secure handling, intelligent routing, robust observability, and integration with backend (API) systems for personalization - all outside business logic.
+
+Check out the project here: [https://github.com/katanemo/archgw](https://github.com/katanemo/archgw) Ask me anything.
+
+# Target Audience
+
+Meant to help developers building AI Agents in production with safety, observablity and personalization features needed for differentiation. Focus on the stuff that matters, not the crufty work to get agents into production.
+
+# Comparison
+
+Compared to NGINX, HAProxy, Envoy - Arch Gateway was designed for prompts. Engineered with purpose-built small LLMs, Arch handles the critical but undifferentiated tasks related to the handling and processing of prompts, including detecting and rejecting [jailbreak](https://github.com/verazuo/jailbreak_llms) attempts, intelligently calling ""backend"" APIs to fulfill the user's request represented in a prompt, routing to and offering disaster recovery between upstream LLMs, and managing the observability of prompts and LLM API calls - outside application code so that you can focus on what matters most
+
+  
+Compared to other proxies like Protkey, LiteLLM - Arch Gateway is built on top of Envoy Proxy which is battled tested for large-scale proxy workloads. And its distributed it nature so you can use it as a forward proxy (agent to agent, agent to LLM) and/or a reverse proxy for Agentic applications",arch gateway open source intelligent gateway ai agent focus business logic agent project arch intelligent layer 7 gateway proxy designed protect observe personalize ai agent apis project born belief prompt nuanced opaque user request require capability traditional http request including secure handling intelligent routing robust observability integration backend api system personalization outside business logic check project ask anything target audience meant help developer building ai agent production safety observablity personalization feature needed differentiation focus stuff matter crufty work get agent production comparison compared nginx haproxy envoy arch gateway designed prompt engineered purposebuilt small llm arch handle critical undifferentiated task related handling processing prompt including detecting rejecting jailbreak attempt intelligently calling backend apis fulfill user request represented prompt routing offering disaster recovery upstream llm managing observability prompt llm api call outside application code focus matter compared proxy like protkey litellm arch gateway built top envoy proxy battled tested largescale proxy workload distributed nature use forward proxy agent agent agent llm andor reverse proxy agentic application,positive,0.9565,0.5884615384615385,"[('Arch Gateway -', 'PERSON'), ('AI', 'GPE'), ('AI', 'ORG'), ('API', 'ORG'), ('Target Audience', 'PERSON'), ('AI Agents', 'ORG'), ('NGINX', 'ORG'), ('HAProxy', 'ORG'), ('Arch', 'PERSON'), ('verazuo', 'PERSON'), ('LLM API', 'PRODUCT'), ('Protkey', 'GPE'), ('Envoy Proxy', 'PERSON'), ('LLM', 'ORG'), ('Agentic', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hx0hz0/arch_gateway_an_open_source_intelligent_gateway/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 04:07:27," Introducing pdf2csv – A PDF to csv/xlsx convertor CLI and python library I’m excited to share **pdf2csv**, a lightweight tool to extract tables from PDFs and convert them into CSV or XLSX formats. It’s especially helpful for right-to-left (RTL) languages like Farsi, Hebrew, and Arabic, ensuring clean, properly formatted text. 🎉
+
+# What My Project Does:
+
+**pdf2csv** extracts structured table data from PDF files using the **Docling** library. It converts these tables into Pandas DataFrames and saves them as CSV or XLSX files. It includes optional RTL text reversal for languages where text direction might be an issue.
+
+You can use **pdf2csv** directly in Python, via CLI, or with **uv** for a streamlined workflow.
+
+# Target Audience:
+
+This tool is for anyone working with PDF table data, especially developers, data analysts, or researchers who need clean, structured outputs from PDFs. It works well for production environments but is simple enough for personal and academic use.
+
+# Comparison:
+
+Existing PDF-to-table tools often struggle with right-to-left (RTL) languages or require extra configuration. **pdf2csv** is:
+
+* **RTL-Aware**: Specifically designed to handle languages like Farsi, Hebrew, and Arabic.
+* **Flexible**: Supports both CSV and XLSX outputs with additional customization options.
+* **Lightweight**: Uses efficient libraries like Pandas and Docling for fast, reliable extraction.
+
+**Github repo:**
+
+[https://github.com/ghodsizadeh/pdf2csv](https://github.com/ghodsizadeh/pdf2csv)
+
+# Examples
+
+# CLI:
+
+    pdf2csv convert-cli example.pdf --output-dir ./output --output-format xlsx --rtl --verbose
+
+# Python:
+
+    from pdf2csv.converter import convert
+    
+    dfs = convert(""example.pdf"", output_dir=""./output"", rtl=True, output_format=""xlsx"")
+    for df in dfs:
+        print(df.head())
+
+# With Lovely uv:
+
+    uvx pdf2csv convert-cli example.pdf --output-dir ./output --output-format xlsx --rtl --verbose
+
+# Try It Live:
+
+You can see it in action on Streamlit: [pdf2csv on Streamlit](https://pdf2csv-py.streamlit.app/)
+
+I’d love to hear your feedback or ideas for improvement. Let me know how it works for you! 🚀",introducing pdf2csv pdf csvxlsx convertor cli python library im excited share pdf2csv lightweight tool extract table pdfs convert csv xlsx format especially helpful righttoleft rtl language like farsi hebrew arabic ensuring clean properly formatted text project pdf2csv extract structured table data pdf file using docling library convert table panda dataframes save csv xlsx file includes optional rtl text reversal language text direction might issue use pdf2csv directly python via cli uv streamlined workflow target audience tool anyone working pdf table data especially developer data analyst researcher need clean structured output pdfs work well production environment simple enough personal academic use comparison existing pdftotable tool often struggle righttoleft rtl language require extra configuration pdf2csv rtlaware specifically designed handle language like farsi hebrew arabic flexible support csv xlsx output additional customization option lightweight us efficient library like panda docling fast reliable extraction github repo example cli pdf2csv convertcli examplepdf outputdir output outputformat xlsx rtl verbose python pdf2csvconverter import convert dfs convertexamplepdf output_diroutput rtltrue output_formatxlsx df dfs printdfhead lovely uv uvx pdf2csv convertcli examplepdf outputdir output outputformat xlsx rtl verbose try live see action streamlit pdf2csv streamlit id love hear feedback idea improvement let know work,positive,0.9906,0.49747899159663855,"[('PDF', 'ORG'), ('CLI', 'ORG'), ('CSV', 'ORG'), ('XLSX', 'ORG'), ('Farsi', 'PERSON'), ('Hebrew', 'LANGUAGE'), ('Arabic', 'LANGUAGE'), ('PDF', 'ORG'), ('Pandas DataFrames', 'ORG'), ('CSV', 'ORG'), ('XLSX', 'ORG'), ('RTL', 'PRODUCT'), ('Python', 'GPE'), ('CLI', 'ORG'), ('Target Audience', 'PERSON'), ('PDF', 'ORG'), ('Comparison', 'PERSON'), ('Farsi', 'PERSON'), ('Hebrew', 'LANGUAGE'), ('Arabic', 'LANGUAGE'), ('CSV', 'ORG'), ('XLSX', 'GPE'), ('Pandas', 'PERSON'), ('CLI', 'PERSON'), ('pdf2csv convert-cli', 'PERSON'), ('pdf2csv convert-cli', 'PERSON'), ('Streamlit', 'PERSON'), ('Streamlit](https://pdf2csv-py.streamlit.app/', 'DATE'), ('🚀', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hwx488/introducing_pdf2csv_a_pdf_to_csvxlsx_convertor/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-08 16:48:11,"Flowkeeper -- a PySide6 (Python + Qt6) application Greetings! Meet [Flowkeeper](https://flowkeeper.org/), a cross-platform desktop Pomodoro timer, which took me about a year to reach its current state. It is implemented in Python and relies on Qt6 for its UI. It supports recent macOS, Windows 10 and 11, and any mainstream Linux released within a couple of years, e.g. Ubuntu 22.04. 
+
+Feel free to reuse parts of it, or ask me any questions about how things are implemented.
+
+# What My Project Does
+
+It allows you plan your work for the day, and then execute it using Pomodoro Technique.
+
+# Target Audience
+
+Power users -- mainly creative professionals and students. Flowkeeper can be used in production and enterprise environments.
+
+# Comparison
+
+Compared to a typical Pomodoro timer, Flowkeeper: 
+
+* Implements Pomodoro Technique exactly as described in the [original book](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amherst.edu/system/files/media/Pomodoro%252520Guide_0.pdf&ved=2ahUKEwjNsqig_eWKAxW7U6QEHZQMA-8QFnoECAsQAQ&usg=AOvVaw20GKwRpyxshlCpBzcw7-40),
+* Supports a wider range of desktop operating systems, including diverse Linux environments,
+* Is more lightweight and performant (it's not based on Electron, and I routinely test it on a Core 2 Duo machine),
+* Has portable versions and does not require admin rights to install,
+* Is optimized for power users (keyboard shortcuts and rich set of settings),
+* Does NOT have a paid version,
+* Does NOT have a mobile version,
+* Does NOT synchronize data across devices,
+* Is NOT translated to multiple languages.
+
+# Details
+
+Flowkeeper codebase on GitHub has examples of Python + Qt6
+
+* Resources,
+* Theming,
+* QSS,
+* WebSockets,
+* OAuth,
+* Audio,
+* Actions with configurable shortcuts,
+* TableViews with custom delegates,
+* Custom visualization / painting,
+* Search with auto-completion,
+* Wizards,
+* Charts,
+* Window state trickery -- saving size on exit, minimize to tray, move via dragging window content, ...,
+* Checking GitHub Releases for updates,
+* Home-made tutorial with call-outs,
+* Home-made generic Settings dialog,
+* Home-made end-to-end (UI) tests,
+* Configurable integration with external tools,
+* Tray icons generated on the fly,
+* Drag-and-drop with placeholders,
+* Ensuring a single application instance is running at a time,
+* The GitHub pipeline, which builds a Windows installer, a DEB, a macOS DMG, and some portable binaries.
+
+Of course, I would appreciate if you have any feedback about the code or the app itself. If you find a bug or would like to request a new feature, please create a GitHub Issue. Thanks! 
+
+# Links
+
+Website with screenshots and downloads: [https://flowkeeper.org/](https://flowkeeper.org/) 
+
+GitHub repo: [https://github.com/flowkeeper-org/fk-desktop/](https://github.com/flowkeeper-org/fk-desktop/) 
+
+Bonus content -- how I develop it on a 17-years-old ThinkPad running Sid: [https://flowkeeper.substack.com/p/digital-asceticism](https://flowkeeper.substack.com/p/digital-asceticism)  
+
+Have a great day!",flowkeeper pyside6 python qt6 application greeting meet flowkeeper crossplatform desktop pomodoro timer took year reach current state implemented python relies qt6 ui support recent macos window 10 11 mainstream linux released within couple year eg ubuntu 2204 feel free reuse part ask question thing implemented project allows plan work day execute using pomodoro technique target audience power user mainly creative professional student flowkeeper used production enterprise environment comparison compared typical pomodoro timer flowkeeper implement pomodoro technique exactly described original book support wider range desktop operating system including diverse linux environment lightweight performant based electron routinely test core 2 duo machine portable version require admin right install optimized power user keyboard shortcut rich set setting paid version mobile version synchronize data across device translated multiple language detail flowkeeper codebase github example python qt6 resource theming qss websockets oauth audio action configurable shortcut tableviews custom delegate custom visualization painting search autocompletion wizard chart window state trickery saving size exit minimize tray move via dragging window content checking github release update homemade tutorial callouts homemade generic setting dialog homemade endtoend ui test configurable integration external tool tray icon generated fly draganddrop placeholder ensuring single application instance running time github pipeline build window installer deb macos dmg portable binary course would appreciate feedback code app find bug would like request new feature please create github issue thanks link website screenshots downloads github repo bonus content develop 17yearsold thinkpad running sid great day,positive,0.9908,0.42392344497607654,"[('Python + Qt6', 'DATE'), ('Pomodoro', 'ORG'), ('about a year', 'DATE'), ('Python', 'GPE'), ('UI', 'ORG'), ('Windows 10 and 11', 'LAW'), ('Linux', 'PERSON'), ('a couple of years', 'DATE'), ('22.04', 'CARDINAL'), ('the day', 'DATE'), ('Pomodoro Technique', 'ORG'), ('# Target Audience', 'MONEY'), ('#', 'CARDINAL'), ('Pomodoro', 'ORG'), ('Linux', 'PERSON'), ('Electron', 'ORG'), ('GitHub', 'ORG'), ('Python + Qt6', 'DATE'), ('WebSockets', 'ORG'), ('Settings', 'PERSON'), ('UI', 'ORG'), ('GitHub', 'PRODUCT'), ('Windows', 'NORP'), ('DEB', 'ORG'), ('GitHub Issue', 'PRODUCT'), ('17-years-old', 'DATE'), ('ThinkPad', 'ORG'), ('Sid', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hwhvns/flowkeeper_a_pyside6_python_qt6_application/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 19:41:37,"Open sourcing our python browser SDK that allows you use LLMs to automate tasks on any website # Use Dendrite to build AI agents / workflows that can:
+
+* 👆🏼 Interact with elements
+* 💿 Extract structured data
+* 🔓 Authenticate on websites
+* ↕️ Download/upload files
+* 🚫 Browse without getting blocked
+
+Check it out here: [https://github.com/dendrite-systems/dendrite-python-sdk](https://github.com/dendrite-systems/dendrite-python-sdk)",open sourcing python browser sdk allows use llm automate task website use dendrite build ai agent workflow interact element extract structured data authenticate website downloadupload file browse without getting blocked check,positive,0.2057,0.5,"[('SDK', 'ORG'), ('Use Dendrite', 'PERSON'), ('AI', 'ORG'), ('Interact', 'GPE'), ('Download', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hvs9hw/open_sourcing_our_python_browser_sdk_that_allows/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 23:53:24,"Vision, PDF reading and Python Script to modify PDF file to make it read as you are looking at something at the distance.
+
+[https://github.com/ilevd/pdf-binocular](https://github.com/ilevd/pdf-binocular)
+
+**What My Project Does**
+
+Duplicate contents on every PDF page for binocular vision.
+
+**Target Audience**
+
+People that have eyes tension when reading books and want to try something to reduce tension.
+
+**Comparison**
+
+Probably it's similar to stereo/3d pictures.",vision pdf reading python script modify pdf file make read looking something distance project duplicate content every pdf page binocular vision target audience people eye tension reading book want try something reduce tension comparison probably similar stereo3d picture,negative,-0.0772,0.4,"[('PDF', 'ORG'), ('Python Script', 'ORG'), ('PDF', 'ORG'), ('PDF', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hvy2ty/vision_pdf_reading_and_python/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-08 05:30:30,"Wednesday Daily Thread: Beginner questions # Weekly Thread: Beginner Questions 🐍
+
+Welcome to our Beginner Questions thread! Whether you're new to Python or just looking to clarify some basics, this is the thread for you.
+
+## How it Works:
+
+1. **Ask Anything**: Feel free to ask any Python-related question. There are no bad questions here!
+2. **Community Support**: Get answers and advice from the community.
+3. **Resource Sharing**: Discover tutorials, articles, and beginner-friendly resources.
+
+## Guidelines:
+
+* This thread is specifically for **beginner questions**. For more advanced queries, check out our [Advanced Questions Thread](#advanced-questions-thread-link).
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **What is the difference between a list and a tuple?**
+2. **How do I read a CSV file in Python?**
+3. **What are Python decorators and how do I use them?**
+4. **How do I install a Python package using pip?**
+5. **What is a virtual environment and why should I use one?**
+
+Let's help each other learn Python! 🌟",wednesday daily thread beginner question weekly thread beginner question welcome beginner question thread whether youre new python looking clarify basic thread work 1 ask anything feel free ask pythonrelated question bad question 2 community support get answer advice community 3 resource sharing discover tutorial article beginnerfriendly resource guideline thread specifically beginner question advanced query check advanced question threadadvancedquestionsthreadlink recommended resource dont receive response consider exploring rlearnpython join python discord server quicker assistance example question 1 difference list tuple 2 read csv file python 3 python decorator use 4 install python package using pip 5 virtual environment use one let help learn python,positive,0.9231,0.5182765151515151,"[('Wednesday', 'DATE'), ('Weekly Thread', 'PERSON'), ('#', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('## Guidelines', 'MONEY'), ('Advanced Questions', 'WORK_OF_ART'), ('##', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('CSV', 'ORG'), ('Python', 'GPE'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hw61sj/wednesday_daily_thread_beginner_questions/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-09 04:46:06,"Generate full docstrings for all your methods with a single command! # What My Project Does
+
+I made this tool for automating docstring generations, as I found writing them very boring. I made the docstrings for the project using itself!
+
+Here's an example:
+
+    """"""Generates docstrings for functions in a Python file.
+    
+    Args:
+      file_path: Path to the Python file.
+    model: The model used for docstring generation.  Type varies depending on the specific model.
+      methods: List of function names to generate docstrings for; if None, generates for all.
+      overwrite: Whether to overwrite existing docstrings. Defaults to False.
+      extensive: Whether to generate extensive docstrings. Defaults to False.
+    
+    Returns:
+      The modified source code with generated docstrings, or None if an error occurs.
+    
+    Raises:
+      Exception: If there's a syntax error in the input file or unparsing fails.
+    """"""
+
+# Install
+
+You must have `GEMINI_API_KEY` defined in your PATH. [You can follow this steps to do it.](https://ai.google.dev/gemini-api/docs/api-key)
+
+
+
+`pip install autodocstring`
+
+# Usage
+
+`autodocstring path/to/file`
+
+# Target Audience
+
+Any Python developer.
+
+# Comparison
+
+I know of VSCode extensions that write some boilerplate, but not full-on automation like this.
+
+# Links
+
+PyPI: [https://pypi.org/project/autodocstring/](https://pypi.org/project/autodocstring/)
+
+Github: [https://github.com/eduardonery1/autodocstring](https://github.com/eduardonery1/autodocstring)",generate full docstrings method single command project made tool automating docstring generation found writing boring made docstrings project using here example generates docstrings function python file args file_path path python file model model used docstring generation type varies depending specific model method list function name generate docstrings none generates overwrite whether overwrite existing docstrings default false extensive whether generate extensive docstrings default false return modified source code generated docstrings none error occurs raise exception there syntax error input file unparsing fails install must gemini_api_key defined path follow step pip install autodocstring usage autodocstring pathtofile target audience python developer comparison know vscode extension write boilerplate fullon automation like link pypi github,positive,0.2302,0.4055952380952381,"[('Python', 'PERSON'), ('Args', 'PERSON'), ('Python', 'PERSON'), ('Raises', 'PERSON'), ('PATH', 'ORG'), ('Comparison', 'PERSON'), ('VSCode', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hwy287/generate_full_docstrings_for_all_your_methods/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 05:42:55,"Tiny Python library that turns functions into GUI apps
+ Hey! I made a small tool that lets you create GUI applications just by writing normal Python functions. It's inspired by FastAPI-Typer, but for desktop-mobile GUIs.
+
+## Quick Start
+Normal function (no interface limitations)
+```python
+from functogui import App
+
+def is_even(number: int = 4) -> bool:
+    return number % 2 == 0
+
+App(is_even)
+```
+
+Function with UI types (With data limitations)
+```python
+from functogui import App, intUi, intReturn
+from typing import Annotated
+
+def time_to_seconds(hours: Annotated[int, intUi(max_value=24)] = 1,
+                    minutes: Annotated[int, intUi(max_value=59)] = 30
+                    ) -> int:
+    
+    return (hours * 3600) + (minutes * 60)
+
+App(time_to_seconds)
+```
+
+That's it - it creates a complete GUI with a slider and shows the result in real-time. Useful for quick tools and prototypes when you don't want to mess with UI code.
+
+Built with Kivy, supports file handling, image preview, and different input types. Would love to hear your thoughts or suggestions!
+Look in the github repo for more examples and documentation. Would love to hear your thoughts or suggestions!
+[Github Repo](https://github.com/offerrall/FuncToGUI)",tiny python library turn function gui apps hey made small tool let create gui application writing normal python function inspired fastapityper desktopmobile gui quick start normal function interface limitation python functogui import app def is_evennumber int 4 bool return number 2 0 appis_even function ui type data limitation python functogui import app intui intreturn typing import annotated def time_to_secondshours annotatedint intuimax_value24 1 minute annotatedint intuimax_value59 30 int return hour 3600 minute 60 apptime_to_seconds thats creates complete gui slider show result realtime useful quick tool prototype dont want mess ui code built kivy support file handling image preview different input type would love hear thought suggestion look github repo example documentation would love hear thought suggestion github repo,positive,0.9595,0.4645833333333332,"[('Tiny Python', 'ORG'), ('GUI', 'ORG'), ('FastAPI-Typer', 'PERSON'), ('Quick Start', 'PERSON'), ('App', 'PRODUCT'), ('4', 'CARDINAL'), ('2', 'CARDINAL'), ('0', 'CARDINAL'), ('UI', 'ORG'), ('App', 'PRODUCT'), ('intReturn', 'PRODUCT'), ('Annotated', 'ORG'), ('1', 'CARDINAL'), ('intUi(max_value=59', 'PERSON'), ('30', 'CARDINAL'), ('60', 'CARDINAL'), ('UI', 'ORG'), ('Kivy', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hve7v7/tiny_python_library_that_turns_functions_into_gui/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 15:14:19,"Built a Drag-and-Drop GUI Builder for CustomTkinter – Check It Out and Share Your Thoughts! Hey Python devs!
+
+I recently built a drag-and-drop GUI tool for customTkinter to simplify designing interfaces. It lets you visually create UIs and export the code directly, which has been super helpful for my projects.
+
+I’d love to hear your thoughts and feedback on it! You can check it out on GitHub https://github.com/Proxlight/Buildfy-Free.git
+
+I’m particularly interested in:
+	•	Usability: Is the drag-and-drop interface intuitive?
+	•	Features: What could make it even better?
+
+Feel free to give it a try and let me know what you think. Any feedback would be amazing!
+
+Thanks!",built draganddrop gui builder customtkinter check share thought hey python devs recently built draganddrop gui tool customtkinter simplify designing interface let visually create uis export code directly super helpful project id love hear thought feedback check github im particularly interested usability draganddrop interface intuitive feature could make even better feel free give try let know think feedback would amazing thanks,positive,0.9836,0.49074074074074076,"[('devs', 'PERSON'), ('GitHub', 'PRODUCT')]",reddit,https://www.reddit.com/r/Python/comments/1hvnyxn/built_a_draganddrop_gui_builder_for_customtkinter/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 20:38:54,"I built my own PyTorch from scratch over the last 5 months in C and modern Python. **What My Project Does**
+
+Magnetron is a machine learning framework I built from scratch over the past 5 months in C and modern Python. It’s inspired by frameworks like PyTorch but designed for deeper understanding and experimentation. It supports core ML features like automatic differentiation, tensor operations, and computation graph building while being lightweight and modular (under 5k LOC).
+
+
+
+**Target Audience**
+
+Magnetron is intended for developers and researchers who want a transparent, low-level alternative to existing ML frameworks. It’s great for learning how ML frameworks work internally, experimenting with novel algorithms, or building custom features (feel free to hack).
+
+**Comparison**
+
+Magnetron differs from PyTorch and TensorFlow in several ways:
+
+• It’s entirely designed and implemented by me, with minimal external dependencies.
+
+• It offers a more modular and compact API tailored for both ease of use and low-level access.
+
+• The focus is on understanding and innovation rather than polished production features.
+
+Magnetron already supports CPU computation, automatic differentiation, and custom memory allocators. I’m currently implementing the CUDA backend, with plans to make it pip-installable soon.
+
+
+
+Check it out here: [GitHub Repo](https://github.com/MarioSieg/magnetron), [X Post](https://x.com/_mario_neo_/status/1875237757984907464)
+
+**Closing Note**
+
+Inspired by Feynman’s philosophy, “What I cannot create, I do not understand,” Magnetron is my way of understanding machine learning frameworks deeply. Feedback is greatly appreciated as I continue developing and improving it!!!",built pytorch scratch last 5 month c modern python project magnetron machine learning framework built scratch past 5 month c modern python inspired framework like pytorch designed deeper understanding experimentation support core ml feature like automatic differentiation tensor operation computation graph building lightweight modular 5k loc target audience magnetron intended developer researcher want transparent lowlevel alternative existing ml framework great learning ml framework work internally experimenting novel algorithm building custom feature feel free hack comparison magnetron differs pytorch tensorflow several way entirely designed implemented minimal external dependency offer modular compact api tailored ease use lowlevel access focus understanding innovation rather polished production feature magnetron already support cpu computation automatic differentiation custom memory allocator im currently implementing cuda backend plan make pipinstallable soon check github repo x post closing note inspired feynman philosophy create understand magnetron way understanding machine learning framework deeply feedback greatly appreciated continue developing improving,positive,0.9896,0.33511904761904765,"[('PyTorch', 'ORG'), ('the last 5 months', 'DATE'), ('Magnetron', 'PERSON'), ('the past 5 months', 'DATE'), ('PyTorch', 'ORG'), ('ML', 'ORG'), ('5k', 'CARDINAL'), ('LOC', 'ORG'), ('Magnetron', 'PERSON'), ('ML', 'ORG'), ('ML', 'ORG'), ('Magnetron', 'PERSON'), ('PyTorch', 'ORG'), ('TensorFlow', 'ORG'), ('API', 'ORG'), ('Magnetron', 'PERSON'), ('CPU', 'ORG'), ('CUDA', 'ORG'), ('GitHub', 'ORG'), ('MarioSieg', 'ORG'), ('Feynman', 'ORG'), ('Magnetron', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hv14tt/i_built_my_own_pytorch_from_scratch_over_the_last/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 07:47:59,"Pyftrace: open source lightweight Python function tracing tool Hi, I made a lightweight Python function tracing tool!
+
+* github: [https://github.com/kangtegong/pyftrace](https://github.com/kangtegong/pyftrace)
+* homepage: [https://pyftrace.pages.dev](https://pyftrace.pages.dev)
+
+
+
+**What My Project Does**
+
+pyftrace is an open source lightweight Python function tracing tool, enables fast code analysis and debugging.
+
+
+
+**Basic Usage**
+
+[foobar.py](http://foobar.py)
+
+      1 def foo():
+      2     bar()
+      3     return 10
+      4
+      5 def bar():
+      6     return 20
+      7
+      8 foo()
+
+pyftrace output:
+
+    $ pyftrace foobar.py
+    Running script: examples/foobar.py
+        Called foo from line 9
+            Called bar from line 2
+            Returning bar-> 20
+            Called bar from line 3
+            Returning bar-> 20
+        Returning foo-> 10
+    
+
+
+
+**Built-in & Path tracing:**
+
+[builtins.py](http://builtins.py)
+
+      1 import os
+      2
+      3 def foo():
+      4     print(os.path.basename(__file__))
+      5
+      6 foo()
+
+You will get the following output with following format:
+
+* `Called {function} @ {defined_path}:{line_number} from {called_path}:{line_number}`
+* `Returning {function} -> {return value} @ {returned_path}`
+
+pyftrace output:
+
+    $ pyftrace --verbose --path builtins.py
+    Running script: builtins.py
+        Called foo@/workspace/builtins.py:3 from /workspace/builtins.py:5
+            Called basename@/usr/lib/python3.8/posixpath.py:140 from /workspace/builtins.py:4
+                Called fspath from /usr/lib/python3.8/posixpath.py:142
+                Returning fspath
+                Called _get_sep@/usr/lib/python3.8/posixpath.py:41 from /usr/lib/python3.8/posixpath.py:143
+                    Called isinstance from /usr/lib/python3.8/posixpath.py:42
+                    Returning isinstance
+                Returning _get_sep-> / @ /usr/lib/python3.8/posixpath.py
+                Called rfind from /usr/lib/python3.8/posixpath.py:144
+                Returning rfind
+            Returning basename-> builtins.py @ /usr/lib/python3.8/posixpath.py
+            Called print from /workspace/builtins.py:4
+    builtins.py
+            Returning print
+        Returning foo-> None @ /workspace/builtins.py
+
+
+
+**Execution Report**
+
+You can also get call count, duration
+
+[fibonacci.py](http://fibonacci.py)
+
+      1 def fibonacci(n):
+      2     if n <= 1:
+      3         return n
+      4     else:
+      5         return fibonacci(n-1) + fibonacci(n-2)
+      6
+      7 result = fibonacci(5)
+
+
+
+pyftrace result:
+
+    $ pyftrace --report fibonacci.py
+    Running script: fibonacci.py
+    
+    Function Name   | Total Execution Time  | Call Count
+    ---------------------------------------------------------
+    fibonacci       | 0.000332 seconds      | 15
+    
+
+
+
+
+
+**TUI (Terminal User Interface) mode**
+
+\[!\[asciicast\](https://asciinema.org/a/LAdPm3vs51Y7ZmJXTVbqwu2EE.svg)\](https://asciinema.org/a/LAdPm3vs51Y7ZmJXTVbqwu2EE)
+
+
+
+**Target Audience** 
+
+Students, developers, researchers, and others who need to analyze function call relationships in large Python code bases.
+
+
+
+**Comparison**
+
+
+
+There are other fantastic function tracing tools besides pyftrace (including Traceback inside Python).
+
+But pyftrace has its own advantages like below:
+
+
+
+||**pyftrace**|**Traceback**|**py-spy**|**viztracer**|
+|:-|:-|:-|:-|:-|
+|**Real-time Trace**|O|X|O|O|
+|**TUI Mode**|O|X|X|X|
+|**Built-in Trace**|O|O|O|O|
+|**Execution Report** **(call count, duration)**|O|X|X|O|
+|**Call-Return hierarchy**|O|O|X|O|
+
+# 
+
+If it can be further developed, I expect it to be of great help in analyzing and debugging complex Python project files.
+
+pyftrace was first introduced at Pycon Korea 2024 and is currently maintained by a single maintainer developer.
+
+Your feedback is essential for the project's development.
+
+If you have any feedback, please leave an issue, or at least support pyftrace with a star, it will be greatly appreciated.
+
+
+
+Thanks for reading :) 
+
+",pyftrace open source lightweight python function tracing tool hi made lightweight python function tracing tool github homepage project pyftrace open source lightweight python function tracing tool enables fast code analysis debugging basic usage foobarpy 1 def foo 2 bar 3 return 10 4 5 def bar 6 return 20 7 8 foo pyftrace output pyftrace foobarpy running script examplesfoobarpy called foo line 9 called bar line 2 returning bar 20 called bar line 3 returning bar 20 returning foo 10 builtin path tracing builtinspy 1 import o 2 3 def foo 4 printospathbasename__file__ 5 6 foo get following output following format called function defined_pathline_number called_pathline_number returning function return value returned_path pyftrace output pyftrace verbose path builtinspy running script builtinspy called fooworkspacebuiltinspy3 workspacebuiltinspy5 called basenameusrlibpython38posixpathpy140 workspacebuiltinspy4 called fspath usrlibpython38posixpathpy142 returning fspath called _get_sepusrlibpython38posixpathpy41 usrlibpython38posixpathpy143 called isinstance usrlibpython38posixpathpy42 returning isinstance returning _get_sep usrlibpython38posixpathpy called rfind usrlibpython38posixpathpy144 returning rfind returning basename builtinspy usrlibpython38posixpathpy called print workspacebuiltinspy4 builtinspy returning print returning foo none workspacebuiltinspy execution report also get call count duration fibonaccipy 1 def fibonaccin 2 n 1 3 return n 4 else 5 return fibonaccin1 fibonaccin2 6 7 result fibonacci5 pyftrace result pyftrace report fibonaccipy running script fibonaccipy function name total execution time call count fibonacci 0000332 second 15 tui terminal user interface mode asciicast target audience student developer researcher others need analyze function call relationship large python code base comparison fantastic function tracing tool besides pyftrace including traceback inside python pyftrace advantage like pyftracetracebackpyspyviztracer realtime traceoxoo tui modeoxxx builtin traceoooo execution report call count durationoxxo callreturn hierarchyooxo developed expect great help analyzing debugging complex python project file pyftrace first introduced pycon korea 2024 currently maintained single maintainer developer feedback essential project development feedback please leave issue least support pyftrace star greatly appreciated thanks reading,positive,0.9716,0.40005668934240357,"[('1', 'CARDINAL'), ('2     bar', 'QUANTITY'), ('3', 'CARDINAL'), ('10', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('6', 'CARDINAL'), ('20', 'CARDINAL'), ('7', 'CARDINAL'), ('8', 'CARDINAL'), ('9', 'CARDINAL'), ('2', 'CARDINAL'), ('20', 'CARDINAL'), ('3', 'CARDINAL'), ('20', 'CARDINAL'), ('builtins.py](http://builtins.py', 'PERSON'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('6', 'CARDINAL'), ('/usr', 'GPE'), ('/usr', 'ORG'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('1', 'CARDINAL'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('5', 'CARDINAL'), ('6', 'CARDINAL'), ('7', 'CARDINAL'), ('Function Name', 'ORG'), ('Call Count\n    ---------------------------------------------------------\n    fibonacci', 'ORG'), ('0.000332 seconds      ', 'TIME'), ('15', 'CARDINAL'), ('TUI', 'ORG'), ('LAdPm3vs51Y7ZmJXTVbqwu2EE', 'ORG'), ('Traceback inside Python', 'WORK_OF_ART'), ('first', 'ORDINAL'), ('Pycon Korea 2024', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hvgv1q/pyftrace_open_source_lightweight_python_function/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 09:08:29,"Creating a Tiny Text to Video Model From Scratch # What My Project Does
+
+This project is an early, small-scale attempt to create a text to video model that generates videos from text prompts, showcasing the basics of how these models are developed.
+
+# Target audience
+
+This project is designed for individuals who want to learn how to create their own text-to-video model from scratch but don't know where to start. It will provide a basic guide from beginning to end, covering everything from generating the training data to training a model and using that trained model to generate AI videos.
+
+# Comparison
+
+For those who aren’t deep into research papers and just want a simple notebook guide for a fun project—or for rookie developers looking to understand the practical implementation beyond just the theory, I’ve created a small-scale GAN architecture. It’s similar to text-to-video models and can be trained on a CPU or a single T4 GPU.
+
+# GitHub
+
+Code, documentation, and example can all be found on GitHub:
+
+[https://github.com/FareedKhan-dev/AI-text-to-video-model-from-scratch](https://github.com/FareedKhan-dev/AI-text-to-video-model-from-scratch)",creating tiny text video model scratch project project early smallscale attempt create text video model generates video text prompt showcasing basic model developed target audience project designed individual want learn create texttovideo model scratch dont know start provide basic guide beginning end covering everything generating training data training model using trained model generate ai video comparison arent deep research paper want simple notebook guide fun projector rookie developer looking understand practical implementation beyond theory ive created smallscale gan architecture similar texttovideo model trained cpu single t4 gpu github code documentation example found github,positive,0.8834,0.30194805194805197,"[('Target', 'PERSON'), ('AI', 'GPE'), ('Comparison', 'PERSON'), ('GAN', 'ORG'), ('CPU', 'ORG'), ('T4 GPU', 'PERSON'), ('GitHub', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hvifli/creating_a_tiny_text_to_video_model_from_scratch/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 12:54:30,"I Built Grid Coordinate System for PDF's **What My Project Does**
+
+Makes it easy to find rect or points coordinates when using pdf libraries.
+
+**Why I Did This**
+
+With PyMuPDF I realized how difficult it is to find the coordinates when inserting images or text.
+
+**Usage**
+
+Just type in terminal `python grid_guide.py example.pdf` and it will give you an output\_grid.pdf
+
+**Github Link**
+
+[**https://github.com/kahvecci/rect-guide.git**](https://github.com/kahvecci/rect-guide.git)
+
+
+
+",built grid coordinate system pdfs project make easy find rect point coordinate using pdf library pymupdf realized difficult find coordinate inserting image text usage type terminal python grid_guidepy examplepdf give output_gridpdf github link,positive,0.1027,0.9166666666666667,"[('PDF', 'ORG'), ('PyMuPDF', 'GPE')]",reddit,https://www.reddit.com/r/Python/comments/1hvm5hv/i_built_grid_coordinate_system_for_pdfs/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 22:03:07,"uv-migrator: A New Tool to Easily Migrate Your Python Projects to UV Package Manager I wanted to share a tool I've created called uv-migrator that helps you migrate your existing Python projects to use the new UV package manager. I have liked alot of the features of UV personally but found moving all my projects over to it to be somewhat clunky and fustrating.
+
+This is my first rust project so the code base is a bit messy but now that i have a good workflow and supporting tests i feel like its in a good place to release and get additional feedback or feature requests.
+
+## What My Project Does
+
+* Automatically converts projects from Poetry, Pipenv, or requirements.txt to UV
+* Preserves all your dependencies, including dev dependencies and dependency groups
+* Migrates project metadata (version, description, authors, tools sections, etc.)
+* Preserves comments (this one drove me mildly insane)
+
+## Target Audience
+
+Developers with large amounts of existing projects who want to switch to uv from their current package manager system easily 
+
+## Comparison
+
+This saves alot of time vs manually configuring and inputting the dependencies or creating lots of adhoc bash scripts. UV itself does not have great support for migrating projects seamlessly.
+
+Id like to avoid talking about if someone should/shouldn't use the uv project specifically if possible and I also have no connection to astral/uv itself.
+
+### github repo
+
+https://github.com/stvnksslr/uv-migrator
+
+example of migrating a poetry project
+
+```bash
+📁 parser/
+├── src/
+├── catalog-info.yaml
+├── docker-compose.yaml
+├── dockerfile
+├── poetry.lock
+├── pyproject.toml
+└── README.md
+```
+
+```bash
+uv-migrator .
+```
+
+```bash
+📁 parser/
+├── src/
+├── catalog-info.yaml
+├── docker-compose.yaml
+├── dockerfile
+├── old.pyproject.toml # Backup of original
+├── poetry.lock
+├── pyproject.toml # New UV configuration + all non Poetry configs
+├── README.md
+└── uv.lock # New UV lockfile
+```
+
+
+#### original pyproject.toml
+```toml
+[tool.poetry]
+name = ""parser""
+version = ""1.3.0""
+description = ""an example repo""
+authors = [""someemail@gmail.com""]
+license = ""MIT""
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ""^3.11""
+beautifulsoup4 = ""^4.12.3""
+lxml = ""^5.2.2""
+fastapi = ""^0.111.0""
+aiofiles = ""^24.1.0""
+jinja2 = ""^3.1.4""
+jinja2-fragments = ""^1.4.0""
+python-multipart = ""^0.0.9""
+loguru = ""^0.7.2""
+uvicorn = { extras = [""standard""], version = ""^0.30.1"" }
+httpx = ""^0.27.0""
+pydantic = ""^2.8.0""
+
+[tool.poetry.group.dev.dependencies]
+pytest = ""^8.2.2""
+pytest-cov = ""^5.0.0""
+pytest-sugar = ""^1.0.0""
+pytest-asyncio = ""^0.23.7""
+pytest-clarity = ""^1.0.1""
+pytest-random-order = ""^1.1.1""
+
+[tool.poetry.group.code-quality.dependencies]
+ruff = ""^0.5.0""
+mypy = ""^1.11.1""
+pre-commit = ""^3.8.0""
+
+[tool.poetry.group.types.dependencies]
+types-beautifulsoup4 = ""^4.12.0.20240511""
+
+[build-system]
+requires = [""poetry>=0.12""]
+build-backend = ""poetry.masonry.api""
+
+[tool.pytest.ini_options]
+asyncio_mode = ""auto""
+addopts = ""-vv --random-order""
+
+[tool.pyright]
+ignore = [""src/tests""]
+
+[tool.coverage.run]
+omit = [
+    '*/.local/*',
+    '__init__.py',
+    'tests/*',
+    '*/tests/*',
+    '.venv/*',
+    '*/migrations/*',
+    '*_test.py',
+    ""src/utils/logger_manager.py"",
+]
+
+[tool.ruff]
+line-length = 120
+exclude = [
+    "".eggs"",
+    "".git"",
+    "".pytype"",
+    "".ruff_cache"",
+    "".venv"",
+    ""__pypackages__"",
+    "".venv"",
+]
+lint.ignore = [
+    ""B008"",    # function-call-in-default-argument (B008)
+    ""S101"",    # Use of `assert` detected
+    ""RET504"",  # Unnecessary variable assignment before `return` statement
+    ""PLR2004"", # Magic value used in comparison, consider replacing {value} with a constant variable
+    ""ARG001"",  # Unused function argument: `{name}`
+    ""S311"",    # Standard pseudo-random generators are not suitable for cryptographic purposes
+    ""ISC001"",  # Checks for implicitly concatenated strings on a single line
+]
+lint.select = [
+    ""A"",   # flake8-builtins
+    ""B"",   # flake8-bugbear
+    ""E"",   # pycodestyle
+    ""F"",   # Pyflakes
+    ""N"",   # pep8-naming
+    ""RET"", # flake8-return
+    ""S"",   # flake8-bandit
+    ""W"",   # pycodestyle
+    ""Q"",   # flake8-quotes
+    ""C90"", # mccabe
+    ""I"",   # isort
+    ""UP"",  # pyupgrade
+    ""BLE"", # flake8-blind-except
+    ""C4"",  # flake8-comprehensions
+    ""ISC"", # flake8-implicit-str-concat
+    ""ICN"", # flake8-import-conventions
+    ""PT"",  # flake8-pytest-style
+    ""PIE"", # flake8-pie
+    ""T20"", # flake8-print
+    ""SIM"", # flake8-simplify
+    ""TCH"", # flake8-type-checking
+    ""ARG"", # flake8-unused-arguments
+    ""PTH"", # flake8-use-pathlib
+    ""ERA"", # eradicate
+    ""PL"",  # Pylint
+    ""NPY"", # NumPy-specific rules
+    ""PLE"", # Pylint
+    ""PLR"", # Pylint
+    ""PLW"", # Pylint
+    ""RUF"", # Ruff-specific rules
+    ""PD"",  # pandas-vet
+]
+```
+
+### updated pyproject.toml
+```toml
+[project]
+name = ""parser""
+version = ""1.3.0""
+description = ""an example repo""
+readme = ""README.md""
+requires-python = "">=3.12""
+dependencies = [
+    ""aiofiles>=24.1.0"",
+    ""beautifulsoup4>=4.12.3"",
+    ""fastapi>=0.111.0"",
+    ""httpx>=0.27.0"",
+    ""jinja2>=3.1.4"",
+    ""jinja2-fragments>=1.4.0"",
+    ""loguru>=0.7.2"",
+    ""lxml>=5.2.2"",
+    ""pydantic>=2.8.0"",
+    ""python-multipart>=0.0.9"",
+    ""uvicorn>=0.30.1"",
+]
+
+[dependency-groups]
+code-quality = [
+    ""mypy>=1.11.1"",
+    ""pre-commit>=3.8.0"",
+    ""ruff>=0.5.0"",
+]
+types = [
+    ""types-beautifulsoup4>=4.12.0.20240511"",
+]
+dev = [
+    ""pytest>=8.2.2"",
+    ""pytest-asyncio>=0.23.7"",
+    ""pytest-clarity>=1.0.1"",
+    ""pytest-cov>=5.0.0"",
+    ""pytest-random-order>=1.1.1"",
+    ""pytest-sugar>=1.0.0"",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = ""auto""
+addopts = ""-vv --random-order""
+
+[tool.pyright]
+ignore = [""src/tests""]
+
+[tool.coverage.run]
+omit = [
+    '*/.local/*',
+    '__init__.py',
+    'tests/*',
+    '*/tests/*',
+    '.venv/*',
+    '*/migrations/*',
+    '*_test.py',
+    ""src/utils/logger_manager.py"",
+]
+
+[tool.ruff]
+line-length = 120
+exclude = [
+    "".eggs"",
+    "".git"",
+    "".pytype"",
+    "".ruff_cache"",
+    "".venv"",
+    ""__pypackages__"",
+    "".venv"",
+]
+lint.ignore = [
+    ""B008"",    # function-call-in-default-argument (B008)
+    ""S101"",    # Use of `assert` detected
+    ""RET504"",  # Unnecessary variable assignment before `return` statement
+    ""PLR2004"", # Magic value used in comparison, consider replacing {value} with a constant variable
+    ""ARG001"",  # Unused function argument: `{name}`
+    ""S311"",    # Standard pseudo-random generators are not suitable for cryptographic purposes
+    ""ISC001"",  # Checks for implicitly concatenated strings on a single line
+]
+lint.select = [
+    ""A"",   # flake8-builtins
+    ""B"",   # flake8-bugbear
+    ""E"",   # pycodestyle
+    ""F"",   # Pyflakes
+    ""N"",   # pep8-naming
+    ""RET"", # flake8-return
+    ""S"",   # flake8-bandit
+    ""W"",   # pycodestyle
+    ""Q"",   # flake8-quotes
+    ""C90"", # mccabe
+    ""I"",   # isort
+    ""UP"",  # pyupgrade
+    ""BLE"", # flake8-blind-except
+    ""C4"",  # flake8-comprehensions
+    ""ISC"", # flake8-implicit-str-concat
+    ""ICN"", # flake8-import-conventions
+    ""PT"",  # flake8-pytest-style
+    ""PIE"", # flake8-pie
+    ""T20"", # flake8-print
+    ""SIM"", # flake8-simplify
+    ""TCH"", # flake8-type-checking
+    ""ARG"", # flake8-unused-arguments
+    ""PTH"", # flake8-use-pathlib
+    ""ERA"", # eradicate
+    ""PL"",  # Pylint
+    ""NPY"", # NumPy-specific rules
+    ""PLE"", # Pylint
+    ""PLR"", # Pylint
+    ""PLW"", # Pylint
+    ""RUF"", # Ruff-specific rules
+    ""PD"",  # pandas-vet
+]
+```",uvmigrator new tool easily migrate python project uv package manager wanted share tool ive created called uvmigrator help migrate existing python project use new uv package manager liked alot feature uv personally found moving project somewhat clunky fustrating first rust project code base bit messy good workflow supporting test feel like good place release get additional feedback feature request project automatically convert project poetry pipenv requirementstxt uv preserve dependency including dev dependency dependency group migrates project metadata version description author tool section etc preserve comment one drove mildly insane target audience developer large amount existing project want switch uv current package manager system easily comparison save alot time v manually configuring inputting dependency creating lot adhoc bash script uv great support migrating project seamlessly id like avoid talking someone shouldshouldnt use uv project specifically possible also connection astraluv github repo example migrating poetry project bash parser src cataloginfoyaml dockercomposeyaml dockerfile poetrylock pyprojecttoml readmemd bash uvmigrator bash parser src cataloginfoyaml dockercomposeyaml dockerfile oldpyprojecttoml backup original poetrylock pyprojecttoml new uv configuration non poetry configs readmemd uvlock new uv lockfile original pyprojecttoml toml toolpoetry name parser version 130 description example repo author someemailgmailcom license mit packagemode false toolpoetrydependencies python 311 beautifulsoup4 4123 lxml 522 fastapi 01110 aiofiles 2410 jinja2 314 jinja2fragments 140 pythonmultipart 009 loguru 072 uvicorn extra standard version 0301 httpx 0270 pydantic 280 toolpoetrygroupdevdependencies pytest 822 pytestcov 500 pytestsugar 100 pytestasyncio 0237 pytestclarity 101 pytestrandomorder 111 toolpoetrygroupcodequalitydependencies ruff 050 mypy 1111 precommit 380 toolpoetrygrouptypesdependencies typesbeautifulsoup4 412020240511 buildsystem requires poetry012 buildbackend poetrymasonryapi toolpytestini_options asyncio_mode auto addopts vv randomorder toolpyright ignore srctests toolcoveragerun omit local __init__py test test venv migration _testpy srcutilslogger_managerpy toolruff linelength 120 exclude egg git pytype ruff_cache venv __pypackages__ venv lintignore b008 functioncallindefaultargument b008 s101 use assert detected ret504 unnecessary variable assignment return statement plr2004 magic value used comparison consider replacing value constant variable arg001 unused function argument name s311 standard pseudorandom generator suitable cryptographic purpose isc001 check implicitly concatenated string single line lintselect flake8builtins b flake8bugbear e pycodestyle f pyflakes n pep8naming ret flake8return flake8bandit w pycodestyle q flake8quotes c90 mccabe isort pyupgrade ble flake8blindexcept c4 flake8comprehensions isc flake8implicitstrconcat icn flake8importconventions pt flake8pyteststyle pie flake8pie t20 flake8print sim flake8simplify tch flake8typechecking arg flake8unusedarguments pth flake8usepathlib era eradicate pl pylint npy numpyspecific rule ple pylint plr pylint plw pylint ruf ruffspecific rule pd pandasvet updated pyprojecttoml toml project name parser version 130 description example repo readme readmemd requirespython 312 dependency aiofiles2410 beautifulsoup44123 fastapi01110 httpx0270 jinja2314 jinja2fragments140 loguru072 lxml522 pydantic280 pythonmultipart009 uvicorn0301 dependencygroups codequality mypy1111 precommit380 ruff050 type typesbeautifulsoup4412020240511 dev pytest822 pytestasyncio0237 pytestclarity101 pytestcov500 pytestrandomorder111 pytestsugar100 toolpytestini_options asyncio_mode auto addopts vv randomorder toolpyright ignore srctests toolcoveragerun omit local __init__py test test venv migration _testpy srcutilslogger_managerpy toolruff linelength 120 exclude egg git pytype ruff_cache venv __pypackages__ venv lintignore b008 functioncallindefaultargument b008 s101 use assert detected ret504 unnecessary variable assignment return statement plr2004 magic value used comparison consider replacing value constant variable arg001 unused function argument name s311 standard pseudorandom generator suitable cryptographic purpose isc001 check implicitly concatenated string single line lintselect flake8builtins b flake8bugbear e pycodestyle f pyflakes n pep8naming ret flake8return flake8bandit w pycodestyle q flake8quotes c90 mccabe isort pyupgrade ble flake8blindexcept c4 flake8comprehensions isc flake8implicitstrconcat icn flake8importconventions pt flake8pyteststyle pie flake8pie t20 flake8print sim flake8simplify tch flake8typechecking arg flake8unusedarguments pth flake8usepathlib era eradicate pl pylint npy numpyspecific rule ple pylint plr pylint plw pylint ruf ruffspecific rule pd pandasvet,positive,0.9844,0.513897213897214,"[('first', 'ORDINAL'), ('#', 'MONEY'), ('Poetry', 'GPE'), ('metadata', 'PERSON'), ('## Target Audience\n\nDevelopers', 'MONEY'), ('###', 'MONEY'), ('poetry.lock\n├──', 'ORG'), ('└──', 'MONEY'), ('Backup', 'PERSON'), ('poetry.lock\n├──', 'ORG'), ('# New UV', 'MONEY'), ('####', 'MONEY'), ('1.3.0', 'WORK_OF_ART'), ('MIT', 'ORG'), ('jinja2', 'PERSON'), ('httpx', 'CARDINAL'), ('tool.pytest.ini_options', 'CARDINAL'), ('init__.py', 'NORP'), ('120', 'CARDINAL'), ('B008', 'WORK_OF_ART'), ('S101', 'PRODUCT'), ('Unnecessary', 'ORG'), ('PLR2004', 'WORK_OF_ART'), ('Magic', 'PERSON'), ('S311', 'PRODUCT'), ('Standard', 'PERSON'), ('#', 'CARDINAL'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('F', 'WORK_OF_ART'), ('#', 'CARDINAL'), ('RET', 'ORG'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('C90', 'ORG'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('C4', 'WORK_OF_ART'), ('#', 'CARDINAL'), ('ISC', 'ORG'), ('ICN', 'ORG'), ('#', 'CARDINAL'), ('PIE', 'ORG'), ('flake8', 'PERSON'), ('T20', 'WORK_OF_ART'), ('flake8', 'PERSON'), ('SIM', 'ORG'), ('flake8', 'PERSON'), ('TCH', 'ORG'), ('flake8', 'PERSON'), ('flake8', 'PERSON'), ('flake8', 'PERSON'), ('ERA', 'WORK_OF_ART'), ('Pylint', 'PERSON'), ('Pylint', 'PERSON'), ('PLR', 'ORG'), ('Pylint', 'PERSON'), ('PLW', 'WORK_OF_ART'), ('Pylint', 'PERSON'), ('RUF', 'WORK_OF_ART'), ('Ruff', 'PERSON'), ('#', 'CARDINAL'), ('pandas-vet', 'PERSON'), ('###', 'MONEY'), ('1.3.0', 'WORK_OF_ART'), ('3.12', 'CARDINAL'), ('tool.pytest.ini_options', 'CARDINAL'), ('init__.py', 'NORP'), ('120', 'CARDINAL'), ('B008', 'WORK_OF_ART'), ('S101', 'PRODUCT'), ('Unnecessary', 'ORG'), ('PLR2004', 'WORK_OF_ART'), ('Magic', 'PERSON'), ('S311', 'PRODUCT'), ('Standard', 'PERSON'), ('#', 'CARDINAL'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('F', 'WORK_OF_ART'), ('#', 'CARDINAL'), ('RET', 'ORG'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('flake8', 'PERSON'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('C90', 'ORG'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('#', 'CARDINAL'), ('C4', 'WORK_OF_ART'), ('#', 'CARDINAL'), ('ISC', 'ORG'), ('ICN', 'ORG'), ('#', 'CARDINAL'), ('PIE', 'ORG'), ('flake8', 'PERSON'), ('T20', 'WORK_OF_ART'), ('flake8', 'PERSON'), ('SIM', 'ORG'), ('flake8', 'PERSON'), ('TCH', 'ORG'), ('flake8', 'PERSON'), ('flake8', 'PERSON'), ('flake8', 'PERSON'), ('ERA', 'WORK_OF_ART'), ('Pylint', 'PERSON'), ('Pylint', 'PERSON'), ('PLR', 'ORG'), ('Pylint', 'PERSON'), ('PLW', 'WORK_OF_ART'), ('Pylint', 'PERSON'), ('RUF', 'WORK_OF_ART'), ('Ruff', 'PERSON'), ('#', 'CARDINAL'), ('pandas-vet', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1hv33ks/uvmigrator_a_new_tool_to_easily_migrate_your/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 03:40:47,"Kompressor, a cli to compress, convert, resize, trim, and slugify images. At work I get sent a lot of images to post on our site. Kung-fooing them into shape can be a pain so I wrote this app to handle all the problems I run into. Check it out here, https://github.com/8cylinder/kompressor
+
+
+**What My Project Does**
+
+It's a wrapper around other cli tools, pngquant, jpegoptim, webp, exiftool.  Plus it uses Pillow and Python-slugify to do further image modification.
+
+This is built to solve my specific problems, but, I think it might be useful for others.
+
+One thing that is a common annoyance is that I often get images with a single row off color pixels down one side of the images (I think its from a bad export from Figma).  Normally I would have to fire up an images editor and try to crop that edge of the image, but with this tool I can just just tell it to remove 1px from the left side.  Easy peasy.
+
+Another thing that's nice, is that I can choose to rename the original and or the new image.  This makes it easy to try different compression levels and have them side by side and toggle back and forth with preview to see any differences.
+
+**Target Audience**
+
+This is for people like me that have to prepare multiple images for the web. And in most cases removes the need to use an image editor.
+
+**Comparison**
+
+I'm sure there are a hundred other tools like this out there that people have built to solve their own particular issues, but I couldn't find one that worked for me.  So I built it.",kompressor cli compress convert resize trim slugify image work get sent lot image post site kungfooing shape pain wrote app handle problem run check project wrapper around cli tool pngquant jpegoptim webp exiftool plus us pillow pythonslugify image modification built solve specific problem think might useful others one thing common annoyance often get image single row color pixel one side image think bad export figma normally would fire image editor try crop edge image tool tell remove 1px left side easy peasy another thing thats nice choose rename original new image make easy try different compression level side side toggle back forth preview see difference target audience people like prepare multiple image web case remove need use image editor comparison im sure hundred tool like people built solve particular issue couldnt find one worked built,positive,0.7003,0.4617286308462778,"[('Kompressor', 'ORG'), ('jpegoptim', 'PERSON'), ('One', 'CARDINAL'), ('one', 'CARDINAL'), ('Figma', 'ORG'), ('1px', 'ORDINAL'), ('a hundred', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hvbfpk/kompressor_a_cli_to_compress_convert_resize_trim/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 17:51:24,"Python running on Wasm / NEAR under 1MB Challenge I have tried RustPython and MicroPython and so far. The best result I got with RustPython was 4.3MB and MicroPython got much further (230kb), but there are still some use of unsupported Wasm features or not provided host functions that must be avoided, so here we are with this challenge and a sizeable price for it.
+
+$300k in grants
+
+More details can be found on the GitHub Discussion boards of:
+
+\* RustPython: [https://github.com/RustPython/RustPython/discussions/5467](https://github.com/RustPython/RustPython/discussions/5467)
+
+\* MicroPython: [https://github.com/orgs/micropython/discussions/16427](https://github.com/orgs/micropython/discussions/16427)",python running wasm near 1mb challenge tried rustpython micropython far best result got rustpython 43mb micropython got much 230kb still use unsupported wasm feature provided host function must avoided challenge sizeable price 300k grant detail found github discussion board rustpython micropython,positive,0.4939,0.475,"[('Wasm / NEAR', 'ORG'), ('1', 'CARDINAL'), ('RustPython', 'ORG'), ('MicroPython', 'ORG'), ('RustPython', 'ORG'), ('4.3', 'CARDINAL'), ('MicroPython', 'ORG'), ('230', 'CARDINAL'), ('Wasm', 'ORG'), ('300k', 'MONEY'), ('GitHub Discussion', 'PRODUCT')]",reddit,https://www.reddit.com/r/Python/comments/1huxrs6/python_running_on_wasm_near_under_1mb_challenge/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 10:27:33,"New features in Python 3.13 Obviously this is a quite subjective list of what jumped out to me, you can check out the full list in [official docs](https://docs.python.org/3/whatsnew/3.13.html#whatsnew313-locals-semantics).
+
+```
+import copy
+from argparse import ArgumentParser
+from dataclasses import dataclass
+```
+
+- **`__static_attributes__` lists attributes from all methods, new `__name__` in `@property`**:
+
+```
+@dataclass
+class Test:
+    def foo(self):
+        self.x = 0
+
+    def bar(self):
+        self.message = 'hello world'
+
+    @property
+    def is_ok(self):
+        return self.q
+
+# Get list of attributes set in any method
+print(Test.__static_attributes__)  # Outputs: 'x', 'message'
+
+# new `__name__` attribute in `@property` fields, can be useful in external functions
+def print_property_name(prop):
+    print(prop.__name__)
+
+print_property_name(Test.is_ok)  # Outputs: is_ok
+```
+
+- `copy.replace()` can be used instead of `dataclasses.replace()`, custom classes can implement `__replace__()` so it works with them too:
+
+```
+@dataclass
+class Point:
+    x: int
+    y: int
+    z: int
+
+# copy with fields replaced
+print(copy.replace(Point(x=0,y=1,z=10), y=-1, z=0))
+```
+
+- **argparse now supports deprecating CLI options**:
+
+```
+parser = ArgumentParser()
+parser.add_argument('--baz', deprecated=True, help=""Deprecated option example"")
+args = parser.parse_args()
+```
+
+**configparser now supports unnamed sections for top-level key-value pairs**:
+
+```
+from configparser import ConfigParser
+config = ConfigParser(allow_unnamed_section=True)
+config.read_string(""""""
+key1 = value1
+key2 = value2
+"""""")
+print(config[""DEFAULT""][""key1""])  # Outputs: value1
+```
+
+### HONORARY (Brief mentions)
+- Improved REPL (multiline editing, colorized tracebacks) in native python REPL, previously had to use `ipython` etc. for this
+- doctest output is now colorized by default
+- Default type hints supported (although IMO syntax for it is ugly)
+- (Experimental) Disable GIL for true multithreading (but it slows down single-threaded performance)
+- Official support for Android and iOS
+- Common leading whitespace in docstrings is stripped automatically
+
+### EXPERIMENTAL / PLATFORM-SPECIFIC
+- New Linux-only API for time notification file descriptors in `os`.
+- PyTime API for system clock access in the C API.
+
+**PS**: Unsure whether this is appropriate here or not, please let me know so I'll keep in mind from next time
+",new feature python 313 obviously quite subjective list jumped check full list official doc import copy argparse import argumentparser dataclasses import dataclass __static_attributes__ list attribute method new __name__ property dataclass class test def fooself selfx 0 def barself selfmessage hello world property def is_okself return selfq get list attribute set method printtest__static_attributes__ output x message new __name__ attribute property field useful external function def print_property_nameprop printprop__name__ print_property_nametestis_ok output is_ok copyreplace used instead dataclassesreplace custom class implement __replace__ work dataclass class point x int int z int copy field replaced printcopyreplacepointx0y1z10 y1 z0 argparse support deprecating cli option parser argumentparser parseradd_argumentbaz deprecatedtrue helpdeprecated option example args parserparse_args configparser support unnamed section toplevel keyvalue pair configparser import configparser config configparserallow_unnamed_sectiontrue configread_string key1 value1 key2 value2 printconfigdefaultkey1 output value1 honorary brief mention improved repl multiline editing colorized tracebacks native python repl previously use ipython etc doctest output colorized default default type hint supported although imo syntax ugly experimental disable gil true multithreading slows singlethreaded performance official support android io common leading whitespace docstrings stripped automatically experimental platformspecific new linuxonly api time notification file descriptor o pytime api system clock access c api p unsure whether appropriate please let know ill keep mind next time,positive,0.93,0.43989898989898996,"[('docs](https://docs.python.org/3', 'GPE'), ('self.q', 'ORG'), ('y=-1', 'GPE'), ('CLI', 'ORG'), ('ArgumentParser', 'PERSON'), ('parser.parse_args', 'PERSON'), ('ConfigParser', 'ORG'), ('key2', 'GPE'), ('###', 'MONEY'), ('HONORARY', 'PERSON'), ('REPL', 'ORG'), ('Android', 'ORG'), ('###', 'MONEY'), ('API', 'ORG')]",reddit,https://www.reddit.com/r/Python/comments/1hurapg/new_features_in_python_313/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-07 05:30:11,"Tuesday Daily Thread: Advanced questions # Weekly Wednesday Thread: Advanced Questions 🐍
+
+Dive deep into Python with our Advanced Questions thread! This space is reserved for questions about more advanced Python topics, frameworks, and best practices.
+
+## How it Works:
+
+1. **Ask Away**: Post your advanced Python questions here.
+2. **Expert Insights**: Get answers from experienced developers.
+3. **Resource Pool**: Share or discover tutorials, articles, and tips.
+
+## Guidelines:
+
+* This thread is for **advanced questions only**. Beginner questions are welcome in our [Daily Beginner Thread](#daily-beginner-thread-link) every Thursday.
+* Questions that are not advanced may be removed and redirected to the appropriate thread.
+
+## Recommended Resources:
+
+* If you don't receive a response, consider exploring r/LearnPython or join the [Python Discord Server](https://discord.gg/python) for quicker assistance.
+
+## Example Questions:
+
+1. **How can you implement a custom memory allocator in Python?**
+2. **What are the best practices for optimizing Cython code for heavy numerical computations?**
+3. **How do you set up a multi-threaded architecture using Python's Global Interpreter Lock (GIL)?**
+4. **Can you explain the intricacies of metaclasses and how they influence object-oriented design in Python?**
+5. **How would you go about implementing a distributed task queue using Celery and RabbitMQ?**
+6. **What are some advanced use-cases for Python's decorators?**
+7. **How can you achieve real-time data streaming in Python with WebSockets?**
+8. **What are the performance implications of using native Python data structures vs NumPy arrays for large-scale data?**
+9. **Best practices for securing a Flask (or similar) REST API with OAuth 2.0?**
+10. **What are the best practices for using Python in a microservices architecture? (..and more generally, should I even use microservices?)**
+
+Let's deepen our Python knowledge together. Happy coding! 🌟",tuesday daily thread advanced question weekly wednesday thread advanced question dive deep python advanced question thread space reserved question advanced python topic framework best practice work 1 ask away post advanced python question 2 expert insight get answer experienced developer 3 resource pool share discover tutorial article tip guideline thread advanced question beginner question welcome daily beginner threaddailybeginnerthreadlink every thursday question advanced may removed redirected appropriate thread recommended resource dont receive response consider exploring rlearnpython join python discord server quicker assistance example question 1 implement custom memory allocator python 2 best practice optimizing cython code heavy numerical computation 3 set multithreaded architecture using python global interpreter lock gil 4 explain intricacy metaclasses influence objectoriented design python 5 would go implementing distributed task queue using celery rabbitmq 6 advanced usecases python decorator 7 achieve realtime data streaming python websockets 8 performance implication using native python data structure v numpy array largescale data 9 best practice securing flask similar rest api oauth 20 10 best practice using python microservices architecture generally even use microservices let deepen python knowledge together happy coding,positive,0.9919,0.48260869565217396,"[('Tuesday', 'DATE'), ('Weekly', 'PERSON'), ('Wednesday', 'DATE'), ('#', 'MONEY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('## Guidelines', 'MONEY'), ('Thursday', 'DATE'), ('##', 'MONEY'), ('1', 'CARDINAL'), ('Python', 'GPE'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Python', 'ORG'), ('GIL', 'ORG'), ('4', 'CARDINAL'), ('Python', 'GPE'), ('5', 'CARDINAL'), ('Celery', 'ORG'), ('6', 'CARDINAL'), ('Python', 'PERSON'), ('7', 'CARDINAL'), ('Python', 'GPE'), ('WebSockets', 'ORG'), ('8', 'CARDINAL'), ('NumPy', 'ORG'), ('9', 'CARDINAL'), ('Flask', 'FAC'), ('2.0', 'CARDINAL'), ('10', 'CARDINAL')]",reddit,https://www.reddit.com/r/Python/comments/1hvdxdo/tuesday_daily_thread_advanced_questions/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 09:42:29,"Tuitorial - I built a terminal-based tool for code presentations because PowerPoint was too painful
+ # What My Project Does
+
+[Tuitorial](https://github.com/basnijholt/tuitorial) lets you create interactive code tutorials that run in your terminal. The key insight is that you define your code ONCE, then create multiple views highlighting different parts using pattern matching rules - no more copy-pasting code snippets across slides! Features include:
+
+* Write code once, create multiple highlighted views
+* Interactive step-by-step navigation
+* Rich syntax highlighting
+* Support for Markdown and even images
+* Configure via Python or YAML
+* Live reload for quick iterations
+
+Here's a quick demo: [https://www.nijho.lt/post/tuitorial/tuitorial-0.4.0.mp4](https://www.nijho.lt/post/tuitorial/tuitorial-0.4.0.mp4) which runs [this YAML format presentation `pipefunc.yaml`](https://github.com/basnijholt/tuitorial/blob/main/examples/pipefunc.yaml)
+
+# Target Audience
+
+This is for the 0.1% of people who:
+
+* Are giving technical presentations or workshops
+* Love terminal-based tools
+* Are tired of copying the same code into multiple PowerPoint slides
+* Want version-controlled, reproducible tutorials
+
+It's particularly useful for teaching scenarios where you want to focus attention on specific parts of code while keeping everything in context.
+
+# Comparison to Existing Alternatives
+
+The problem with traditional tools:
+
+* PowerPoint/Google Slides: Forces you to copy-paste code multiple times just to highlight different parts
+* Jupyter notebooks: Great for readers, but during presentations there's too much text for the audience to get distracted by
+* Spiel: While also terminal-based, it's more for general presentations without code-specific features
+* REPLs: Interactive but lack structured presentation
+* Many others linked in [this issue](https://github.com/basnijholt/tuitorial/issues/25), all general purpose terminal presentation tools
+
+Tuitorial solves these issues by letting you define code once and create multiple views through highlighting rules, all while staying in the familiar terminal environment.
+
+The project started as a solution to my own frustration while trying to present another package I built ([pipefunc](https://github.com/pipefunc/pipefunc)). Sometimes the best tools come from scratching your own itch!
+
+Check it out: [https://github.com/basnijholt/tuitorial](https://github.com/basnijholt/tuitorial)",tuitorial built terminalbased tool code presentation powerpoint painful project tuitorial let create interactive code tutorial run terminal key insight define code create multiple view highlighting different part using pattern matching rule copypasting code snippet across slide feature include write code create multiple highlighted view interactive stepbystep navigation rich syntax highlighting support markdown even image configure via python yaml live reload quick iteration here quick demo run yaml format presentation pipefuncyaml target audience 01 people giving technical presentation workshop love terminalbased tool tired copying code multiple powerpoint slide want versioncontrolled reproducible tutorial particularly useful teaching scenario want focus attention specific part code keeping everything context comparison existing alternative problem traditional tool powerpointgoogle slide force copypaste code multiple time highlight different part jupyter notebook great reader presentation there much text audience get distracted spiel also terminalbased general presentation without codespecific feature repls interactive lack structured presentation many others linked issue general purpose terminal presentation tool tuitorial solves issue letting define code create multiple view highlighting rule staying familiar terminal environment project started solution frustration trying present another package built pipefunc sometimes best tool come scratching itch check,positive,0.9716,0.4027777777777778,"[('PowerPoint', 'ORG'), ('Target Audience', 'PERSON'), ('the 0.1%', 'PERCENT'), ('PowerPoint', 'ORG'), ('Comparison', 'PERSON')]",reddit,https://www.reddit.com/r/Python/comments/1huqhvc/tuitorial_i_built_a_terminalbased_tool_for_code/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
+2025-01-06 03:35:10,"Potato - A Lightweight Tool for Debugging and Testing Python Code # Potato: A Lightweight Tool for Debugging and Testing Python Code
+
+# What is Potato?
+
+**Potato** is a Python package designed to halt your code's execution with precision and simplicity. It’s perfect for debugging, testing control flow, or adding a bit of fun to your scripts. The best part? You don’t even have to install it. Python natively supports Potato, thanks to its strict variable naming rules.
+
+Just type potato into your source code and watch the magic happen! Your script will immediately halt with a NameError, leaving your colleagues (or future self) wondering why there's a potato in your code.
+
+# Why Potato?
+
+* **Zero Dependencies**: Potato requires absolutely no installations or updates.
+* **Lightweight**: Takes up 0 bytes of storage.
+* **Instant Debugging**: Clearly marks the exact point in your code where Potato strikes.
+* **Fun for Everyone**: Confuse your friends, co-workers, and even your future self with a well-placed `potato`!
+
+# Installation
+
+There is no installation. Python comes with Potato pre-installed. Simply open your favorite Python script and start typing `potato`.
+
+# Usage
+
+# Example 1: Halting a Script
+
+    print(""Hello, world!"")
+    potato
+    print(""This will never run."")
+
+**Output:**
+
+    Hello, world!
+    Traceback (most recent call last):
+      File ""example.py"", line 2, in <module>
+        potato
+    NameError: name 'potato' is not defined
+
+# Example 2: Asserting Dominance in the Codebase
+
+    if user_input == ""42"":
+        print(""You cracked the ultimate answer!"")
+    else:
+        potato
+
+**Output:**
+
+    Traceback (most recent call last):
+      File ""example.py"", line 4, in <module>
+        potato
+    NameError: name 'potato' is not defined
+
+# Example 3: Leaving Easter Eggs
+
+    # TODO: Replace potato with actual logic later
+    potato
+
+# Disclaimer
+
+Potato is not responsible for lost productivity, broken pipelines, or puzzled colleagues. Use responsibly (or irresponsibly, it’s up to you).
+
+# Contribute
+
+Have ideas to make Potato even better? Sorry, but it’s already perfect.
+
+# License
+
+Potato is released under the ""Completely Made Up"" license. Go ahead, use it however you like. Just don’t blame us when your boss asks why your code is full of potatoes.
+
+# Repository
+
+Find the source code and more on GitHub: [Potato Repository](https://github.com/andrewruba/potato)",potato lightweight tool debugging testing python code potato lightweight tool debugging testing python code potato potato python package designed halt code execution precision simplicity perfect debugging testing control flow adding bit fun script best part dont even install python natively support potato thanks strict variable naming rule type potato source code watch magic happen script immediately halt nameerror leaving colleague future self wondering there potato code potato zero dependency potato requires absolutely installation update lightweight take 0 byte storage instant debugging clearly mark exact point code potato strike fun everyone confuse friend coworkers even future self wellplaced potato installation installation python come potato preinstalled simply open favorite python script start typing potato usage example 1 halting script printhello world potato printthis never run output hello world traceback recent call last file examplepy line 2 module potato nameerror name potato defined example 2 asserting dominance codebase user_input 42 printyou cracked ultimate answer else potato output traceback recent call last file examplepy line 4 module potato nameerror name potato defined example 3 leaving easter egg todo replace potato actual logic later potato disclaimer potato responsible lost productivity broken pipeline puzzled colleague use responsibly irresponsibly contribute idea make potato even better sorry already perfect license potato released completely made license go ahead use however like dont blame u bos asks code full potato repository find source code github potato repository,positive,0.9866,0.4666666666666668,"[('Potato - A Lightweight Tool for Debugging and Testing Python', 'ORG'), ('Potato', 'ORG'), ('NameError', 'ORG'), ('0', 'CARDINAL'), ('Potato', 'ORG'), ('File', 'ORG'), ('2', 'CARDINAL'), ('NameError', 'ORG'), ('Codebase', 'PERSON'), ('42', 'CARDINAL'), ('File', 'ORG'), ('4', 'CARDINAL'), ('NameError', 'ORG'), ('TODO', 'PERSON'), ('Disclaimer\n\nPotato', 'ORG'), ('License\n\nPotato', 'ORG'), ('the ""Completely Made Up', 'LAW')]",reddit,https://www.reddit.com/r/Python/comments/1huiq1y/potato_a_lightweight_tool_for_debugging_and/,"[{'python': 0.008066335, 'question': 0.008056978, 'dive': 0.00666914, 'ui': 0.0065675126, 'def': 0.006358187, 'deep': 0.0062399944, 'import': 0.0061927135, 'int': 0.005983999, 'advanced': 0.005789157, 'support': 0.0054165265}, {'llm': 0.010058474, 'homemade': 0.0092260605, 'agent': 0.008818379, 'website': 0.008497452, 'code': 0.007465803, 'python': 0.007461763, 'support': 0.0057156505, 'default': 0.0054722265, 'multiple': 0.0053499676, 'using': 0.0052895728}, {'image': 0.008543437, 'job': 0.00678633, 'python': 0.0067726504, 'thread': 0.006769359, 'framework': 0.0062227575, 'working': 0.0056384187, 'learning': 0.0053848303, 'built': 0.0051817754, 'work': 0.0051364587, 'share': 0.005101219}, {'docstrings': 0.0073738834, 'called': 0.0066850595, 'python': 0.0063808737, 'usage': 0.0063209576, 'model': 0.0059643057, 'code': 0.005660131, 'debugging': 0.005572256, 'function': 0.005434115, 'feature': 0.0053661913, 'script': 0.0049505676}, {'model': 0.008085599, 'python': 0.0078754155, 'pdf': 0.007192761, 'project': 0.006780021, 'pydantic': 0.0065573384, 'uv': 0.0062578763, 'use': 0.0062099234, 'question': 0.0056662704, 'challenge': 0.0053614015, 'got': 0.0053606643}]"
